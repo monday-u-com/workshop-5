@@ -7,6 +7,6 @@ export const mondayuLogger = new Console({
 });
 
 // step 2: check your logger works
-mondayuLogger.log('hello mondayU! it works!');
+// mondayuLogger.log('hello mondayU! it works!');
 
 // step 3: rename the package and publish 
